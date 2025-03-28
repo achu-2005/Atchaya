@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -59,7 +59,7 @@
 
 <header>
     <h1>Atchaya M</h1>
-    <p>An Electronics Engineer</p>
+    <p>Data Science</p></p>
 </header>
 
 <nav>
@@ -76,14 +76,14 @@
         <p>
             I'm a <strong>cyber security</strong> expert and technology enthusiast passionate about helping 
             organizations protect their data and create secure online environments. 
-            With over 7 years of experience, I stay up to date with the latest trends in cybersecurity 
+         I stay up to date with the latest trends in cybersecurity 
             and help others learn about staying safe online.
         </p>
     </section>
 
     <section id="education">
         <h2>Education</h2>
-        <p>Anna University - Electrical & Electronics Engineering</p>
+        <p>Madras University-Data Science</p>
     </section>
 
     <section id="skills">
